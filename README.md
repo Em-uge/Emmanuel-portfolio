@@ -66,8 +66,8 @@
     <div class="container">
         <header>
             <img src="your-photo.jpg" alt="Your Photo" class="profile-img">
-            <h1>Emmanuel [Your Last Name]</h1>
-            <h3>Agronomist | UX Researcher | Data Scientist in Training</h3>
+            <h1>Emmanuel [Ugezene]</h1>
+            <h3>Agronomist | Data Scientist in Training</h3>
         </header>
         
         <section class="section" id="about">
