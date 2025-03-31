@@ -66,30 +66,30 @@
     <div class="container">
         <header>
             <img src="your-photo.jpg" alt="Your Photo" class="profile-img">
-            <h1>Emmanuel [Ugezene]</h1>
+            <h1>Emmanuel Ugezene</h1>
             <h3>Agronomist | Data Scientist in Training</h3>
         </header>
         
         <section class="section" id="about">
             <h2>About Me</h2>
-            <p>Hi, I'm Emmanuel, an agronomist and UX researcher with a passion for data science. I specialize in combining data-driven insights with user-centered design to create impactful solutions in agriculture and technology.</p>
+            <p>Hi, I'm Emmanuel, an agronomist with a passion for data science. I specialize in combining data-driven insights with user-centered design to create impactful solutions in agriculture and technology.</p>
         </section>
 
         <section class="section" id="portfolio">
             <h2>Portfolio</h2>
-            <p>Explore my work in agronomy, UX research, and data science.</p>
+            <p>Explore my work in agronomy and data science.</p>
             <a href="#contact" class="btn">Get in Touch</a>
         </section>
 
         <section class="section" id="contact">
             <h2>Contact</h2>
-            <p>Email: your.email@example.com</p>
-            <p>LinkedIn: <a href="https://linkedin.com/in/yourprofile" target="_blank">linkedin.com/in/yourprofile</a></p>
+            <p>Email: emmanuelugezene@gmail.com</p>
+            <p>LinkedIn: <a href"https://www.linkedin.com/in/emmanuel-ugezene-8360aa18a" target="_blank">linkedin.com/in/yourprofile</a></p>
         </section>
     </div>
 
     <footer>
-        <p>&copy; 2025 Emmanuel [Your Last Name]. All rights reserved.</p>
+        <p>&copy; 2025 Emmanuel Ugezene. All rights reserved.</p>
     </footer>
 </body>
 </html>
