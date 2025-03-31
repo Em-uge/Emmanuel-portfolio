@@ -65,7 +65,7 @@
 <body>
     <div class="container">
         <header>
-            <img src="your-photo.jpg" alt="Your Photo" class="profile-img">
+            <img src="profile.jpg" alt="Your Photo" class="profile-img">
             <h1>Emmanuel Ugezene</h1>
             <h3>Agronomist | Data Scientist in Training</h3>
         </header>
